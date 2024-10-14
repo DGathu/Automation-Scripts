@@ -1,1 +1,2 @@
-.mp4
+# Ignore .mp4 files
+*.mp4
